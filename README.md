@@ -1,5 +1,7 @@
 Team 7652
-Install
+[![Build & Format Check](https://github.com/MiamiBeachBots/base-bot/actions/workflows/gradle-build.yml/badge.svg)](https://github.com/MiamiBeachBots/base-bot/actions/workflows/gradle-build.yml)
+
+Install WPILib
 
 The official WPILib installer is the best way to get started. It handles setting up all the tools you need, including Visual Studio Code and the Java Development Kit (JDK).
 
